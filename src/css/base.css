@@ -1,0 +1,16 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background: yellowgreen;
+}
+
+.box{
+  border:2px solid purple;
+  transform: translateX(20px);/*测试浏览器的前缀是否加上了*/
+}
+.box222{
+  border:2px solid purple;
+}
